@@ -1,0 +1,90 @@
+{
+  "words": 30317,
+  "file_md5": "6555417414533a29960c3a4a01ad1303",
+  "file_sha256": "0a5ac7d40a6b639f422eb97664d574a2e99ee63b03136a6ee6733a98c2887ffb",
+  "trie": {
+    "start": 25,
+    "end": 167465,
+    "nodes": 42988,
+    "terminal_count": 30317,
+    "link_count": 32151,
+    "l1": 55,
+    "extras_width": 7,
+    "tail_bytes": 0,
+    "next": {
+      "start": 97873,
+      "end": 164377,
+      "nodes": 16521,
+      "terminal_count": 0,
+      "link_count": 9673,
+      "l1": 124,
+      "extras_width": 5,
+      "tail_bytes": 0,
+      "next": {
+        "start": 128193,
+        "end": 163977,
+        "nodes": 6976,
+        "terminal_count": 0,
+        "link_count": 3755,
+        "l1": 130,
+        "extras_width": 7,
+        "tail_bytes": 21882,
+        "next": null
+      }
+    }
+  },
+  "sections": [
+    {
+      "kind": 443,
+      "start": 9,
+      "end": 167498,
+      "length": 167489
+    },
+    {
+      "kind": 442,
+      "start": 167506,
+      "end": 172262,
+      "length": 4756
+    },
+    {
+      "kind": 440,
+      "start": 172270,
+      "end": 319557,
+      "length": 147287
+    }
+  ],
+  "kind440": {
+    "buckets": 6693,
+    "entries": 13386,
+    "unique_hashes": 13386,
+    "matched_words": 13362,
+    "matched_hashes": 13362,
+    "unmatched_hash_count": 24,
+    "unmatched_hashes": [
+      "00b1b2a7",
+      "1649bb6e",
+      "1a3e8033",
+      "1ff11db0",
+      "26bf570c",
+      "3c7e1b3d",
+      "42b88aed",
+      "4519c17b",
+      "51ed71ce",
+      "52fece55",
+      "788f6aab",
+      "947c1450",
+      "a236070f",
+      "c2d41040",
+      "c6f1bf7b",
+      "d1a21e92",
+      "dbb347e7",
+      "de75a428",
+      "e11e7e8d",
+      "e7c7fff7",
+      "ee69690e",
+      "f7c9dc42",
+      "f9b2a01b",
+      "fee9bb27"
+    ]
+  }
+}
